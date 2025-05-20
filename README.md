@@ -1,6 +1,6 @@
 ![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-[![Open Issues](https://img.shields.io/github/issues/yourusername/llm-threat-modeling-agents.svg)](https://github.com/yourusername/llm-threat-modeling-agents/issues)
+[![Open Issues](https://img.shields.io/github/issues/emmanuelgjr/llm-threat-modeling-agents.svg)](https://github.com/emmanuelgjr/llm-threat-modeling-agents/issues)
 
 # LLM Threat Modeling Agents
 
@@ -17,7 +17,7 @@
 ## Quickstart
 
 ```bash
-git clone https://github.com/yourusername/llm-threat-modeling-agents.git
+git clone https://github.com/emmanuelgjr/llm-threat-modeling-agents.git
 cd llm-threat-modeling-agents
 python -m venv venv
 .\venv\Scripts\activate
