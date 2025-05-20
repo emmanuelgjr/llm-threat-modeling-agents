@@ -1,0 +1,57 @@
+{
+    "scenarios": [
+      {
+        "name": "Phishing Email Analyzer",
+        "description": "A multi-agent system processes incoming emails for phishing detection using LLMs and agentic orchestration.",
+        "environment": "Cloud, Enterprise"
+      },
+      {
+        "name": "Autonomous Chatbot in Healthcare",
+        "description": "An LLM-powered agent acts as a virtual assistant for patient triage and information.",
+        "environment": "Healthcare, Private Cloud"
+      },
+      {
+        "name": "Financial Transaction Monitor",
+        "description": "Agents analyze real-time financial transactions to detect fraud using LLMs.",
+        "environment": "Banking, Cloud"
+      },
+      {
+        "name": "GenAI-Powered Document Classifier",
+        "description": "LLM agents classify and label sensitive documents in a corporate environment.",
+        "environment": "Enterprise, On-Prem"
+      },
+      {
+        "name": "Customer Service GenAI Bot",
+        "description": "A customer support chatbot for a telecom company that can access sensitive customer data to resolve queries.",
+        "environment": "SaaS, Cloud"
+      },
+      {
+        "name": "Autonomous Supply Chain Optimizer",
+        "description": "A multi-agent system that uses LLMs to predict and optimize supply chain logistics.",
+        "environment": "Logistics, Multi-cloud"
+      },
+      {
+        "name": "Autonomous Incident Response Agent",
+        "description": "LLM-driven agent detects, triages, and responds to security incidents in real-time.",
+        "environment": "SOC, Hybrid Cloud",
+        "risk_level": "High",
+        "agents_involved": ["LLM Core", "Threat Detection Agent", "Remediation Bot"]
+      },
+      {
+        "name": "Legal Contract Analyzer",
+        "description": "LLM agents review and flag potential risks or compliance violations in corporate legal contracts.",
+        "environment": "LegalTech, SaaS"
+      },
+      {
+        "name": "Smart IoT Device Manager",
+        "description": "Agents monitor and manage a network of smart IoT devices in a manufacturing plant, responding to anomalies or security threats.",
+        "environment": "Industrial IoT, Edge/Cloud"
+      },
+      {
+        "name": "Automated Recruitment Screener",
+        "description": "GenAI-powered agent screens job applications, schedules interviews, and assists HR in talent acquisition.",
+        "environment": "HRTech, SaaS"
+      }
+    ]
+  }
+  

@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code and other editor settings
+.vscode/
+*.code-workspace
+
+# macOS and system files
+.DS_Store
+Thumbs.db
+
+# Output and logs
+output/
+*.log
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# Environment variable and secret files
+.env
+.env.*
+
+# Python egg info
+*.egg-info/
+dist/
+build/
+
+# Pip wheel cache
+pip-wheel-metadata/
+
+# Data files (optional - comment/uncomment as needed)
+# data/

@@ -1,0 +1,10 @@
+openai
+langchain
+crewai
+requests
+pandas
+numpy
+tqdm
+pytest
+tabulate
+colorama
