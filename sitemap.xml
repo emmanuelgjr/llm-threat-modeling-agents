@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://emmanuelgjr.github.io/llm-threat-modeling-agents/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+    <url>
+         <loc>https://emmanuelgjr.github.io/llm-threat-modeling-agents/architecture/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+    <url>
+         <loc>https://emmanuelgjr.github.io/llm-threat-modeling-agents/cli/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+    <url>
+         <loc>https://emmanuelgjr.github.io/llm-threat-modeling-agents/contributing/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+    <url>
+         <loc>https://emmanuelgjr.github.io/llm-threat-modeling-agents/frameworks/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+    <url>
+         <loc>https://emmanuelgjr.github.io/llm-threat-modeling-agents/plugins/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+    <url>
+         <loc>https://emmanuelgjr.github.io/llm-threat-modeling-agents/quickstart/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+    <url>
+         <loc>https://emmanuelgjr.github.io/llm-threat-modeling-agents/reports/</loc>
+         <lastmod>2026-04-09</lastmod>
+    </url>
+</urlset>
