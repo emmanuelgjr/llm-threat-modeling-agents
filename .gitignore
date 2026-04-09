@@ -28,6 +28,9 @@ Thumbs.db
 output/
 *.log
 
+# NVD response cache
+.cache/
+
 # Test and coverage files
 .pytest_cache/
 .coverage

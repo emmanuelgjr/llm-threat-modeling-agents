@@ -1,0 +1,48 @@
+site_name: LLM Threat Modeling Agents
+site_description: Multi-agent threat modeling for LLM/GenAI systems, grounded in MAESTRO and OWASP COMPASS.
+site_url: https://emmanuelgjr.github.io/llm-threat-modeling-agents/
+repo_url: https://github.com/emmanuelgjr/llm-threat-modeling-agents
+repo_name: emmanuelgjr/llm-threat-modeling-agents
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Home: index.md
+  - Quickstart: quickstart.md
+  - Architecture: architecture.md
+  - Frameworks: frameworks.md
+  - CLI reference: cli.md
+  - Plugins: plugins.md
+  - Reports & integrations: reports.md
+  - Contributing: contributing.md

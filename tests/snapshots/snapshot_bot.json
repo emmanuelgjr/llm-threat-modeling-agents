@@ -1,0 +1,42 @@
+[
+  {
+    "scenario": "Snapshot Bot",
+    "risks": [
+      {
+        "threat": "Privilege Compromise",
+        "likelihood": 3,
+        "impact": 5,
+        "risk_score": 15,
+        "severity": "High"
+      },
+      {
+        "threat": "Identity Spoofing & Impersonation",
+        "likelihood": 3,
+        "impact": 4,
+        "risk_score": 12,
+        "severity": "High"
+      },
+      {
+        "threat": "Human Attacks on Multi-Agent Systems",
+        "likelihood": 3,
+        "impact": 4,
+        "risk_score": 12,
+        "severity": "High"
+      },
+      {
+        "threat": "Model Inversion and Data Reconstruction Attacks",
+        "likelihood": 3,
+        "impact": 4,
+        "risk_score": 12,
+        "severity": "High"
+      },
+      {
+        "threat": "Tool Misuse",
+        "likelihood": 2,
+        "impact": 5,
+        "risk_score": 10,
+        "severity": "Medium"
+      }
+    ]
+  }
+]

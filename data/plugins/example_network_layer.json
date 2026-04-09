@@ -1,0 +1,17 @@
+{
+  "maestro_layers": {
+    "Network": {
+      "description": "Network ingress/egress and segmentation around the agent system.",
+      "indicators": ["network", "firewall", "ingress", "egress", "vpn", "tls"]
+    }
+  },
+  "compass_threats": {
+    "Lateral Movement via Agent Network Path": {
+      "indicators": ["network", "lateral", "internal api", "service mesh"],
+      "maestro_layers": ["Network", "System"],
+      "impact": 5,
+      "cwes": ["CWE-668", "CWE-285"],
+      "mitigation": "Segment the agent's network reach; require mTLS for every internal call; deny by default."
+    }
+  }
+}
